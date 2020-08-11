@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+}
+
+body {
+  background-color: #f7f7f7;
+ 
+  font-family: 'Lato', sans-serif;
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
+.button1{
+  border: 1px solid !important;
+    border-color: green !important;
+    background: linear-gradient(45deg, black, transparent) !important;
+    color: white !important;
+    border-bottom: blue !important;
+    cursor: pointer !important;
+    padding: 12px !important;
+    margin: 3px !important;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.button2{
+  border: 2px solid;
+    background: linear-gradient(45deg, black, transparent);
+    color: white;
+    padding: 12px;
+    margin: 3px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.para1{
+  font-size: 20px;
+    font-weight: 500;
+    color: crimson;
+}
+
+

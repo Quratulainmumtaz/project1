@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+}
+
+body {
+  background-color: #f7f7f7;
+ 
+  font-family: 'Lato', sans-serif;
+}
+.button1{
+  border: 1px solid !important;
+    border-color: green !important;
+    background: green !important;
+    padding: 8px !important;
+    color: white !important;
+    border-bottom: blue !important;
+    margin: 4px !important;
+    cursor: pointer !important;
+}
+
+
